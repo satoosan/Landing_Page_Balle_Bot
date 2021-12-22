@@ -17,7 +17,7 @@ body{
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
-    padding: 24px;
+    padding: 1.5rem;
 }
 
 .header-img{
@@ -33,7 +33,7 @@ body{
     font-family: 'Sarala', sans-serif;
     color:#FFF2E7;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 1.2rem;
     transition: 0.3s;
 }
 
@@ -62,14 +62,14 @@ body{
 .content-main-written-title{
     font-family: 'Righteous', cursive;
     font-weight: 400;
-    font-size: 64px;
+    font-size: 3rem;
     color: #FFF2E7;
 }
 
 .content-main-written-subtitle{
     font-family: 'Sarala', sans-serif;
     font-weight: 400;
-    font-size: 24px;
+    font-size: 1.2rem;
     color: #ECD6C4;
 }
 
@@ -81,7 +81,7 @@ body{
     box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
     border-radius: 20px;
     font-family: 'Sarala', sans-serif;
-    font-size: 24px;
+    font-size: 1.2rem;
     color: #2F2325;
     transition: 0.8s;
 }
@@ -107,7 +107,7 @@ body{
     padding-top: 48px;
     font-family: 'Righteous', cursive;
     font-weight: 400;
-    font-size: 24px;
+    font-size: 1.2rem;
     color: #FFF2E7;
     margin-bottom: 16px;
 }
@@ -120,7 +120,7 @@ body{
 }
 
 .footer{
-    padding: 32px;
+    padding: 2rem;
     border-top: 0.4px solid #FFF2E7;
 }
 
